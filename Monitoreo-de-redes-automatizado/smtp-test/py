@@ -1,0 +1,18 @@
+import smtplib
+from email.message import EmailMessage
+
+email = "eliasjoaquinprieto@gmail.com"
+app   = "pgyfuyfphxmrsxln"  # sin espacios
+
+m = EmailMessage()
+m["Subject"] = "test"
+m["From"] = email
+m["To"] = email
+m.set_content("ok")
+
+with smtplib.SMTP("smtp.gmail.com", 587) as s:
+    s.starttls()
+    s.login(email, app)
+    s.send_message(m)
+
+print("OK")
