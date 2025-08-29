@@ -29,8 +29,3 @@ Bibliotecas adicionales: Instalar las dependencias con y en el CMD:
 -Correo SMTP: Configura las credenciales de un correo de Gmail para el envío de notificaciones:
 -Usuario: tucorreo@gmail.com
 -Contraseña: (Utiliza una clave de aplicación para mayor seguridad).
-
-# Notas Importantes
--Seguridad del correo: Usa claves de aplicación para configurar el envío de correos desde Gmail.
--Permisos: Asegúrate de ejecutar el programa con permisos adecuados para capturar tráfico de red.
--Limitaciones: Este programa está diseñado para fines educativos y no debe usarse en redes sin autorización explícita.
