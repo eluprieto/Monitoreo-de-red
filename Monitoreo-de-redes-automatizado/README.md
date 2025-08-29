@@ -34,6 +34,3 @@ Bibliotecas adicionales: Instalar las dependencias con y en el CMD:
 -Seguridad del correo: Usa claves de aplicación para configurar el envío de correos desde Gmail.
 -Permisos: Asegúrate de ejecutar el programa con permisos adecuados para capturar tráfico de red.
 -Limitaciones: Este programa está diseñado para fines educativos y no debe usarse en redes sin autorización explícita.
-
-Contacto
-Si tienes preguntas o sugerencias, no dudes en contactarme a través de Administradorci@proton.me
